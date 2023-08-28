@@ -19,5 +19,6 @@ The goal is to furnish invaluable insights and accurate sales projections, empow
 Folder: Sales_Dashboard
 
 2.*HR Analytics Dashboard*
+
 Description: A comprehensive HR analytics report that explores employee attendence,working preference ,sick leave % etc and identifying the trends.
 Folder: HR_Analytics_Dashboard
