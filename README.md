@@ -16,9 +16,11 @@ Each project folder contains a Power BI file (.pbix) along with any necessary da
 Description: An interactive dashboard that visualizes sales data for a company. Includes metrics like revenue, profit, top-selling products, and regional performance.
 The objective is to drive the company's success through precise data analysis, with a focal point on time series analysis.
 The goal is to furnish invaluable insights and accurate sales projections, empowering strategic decisions that fuel supermarket growth, efficiency, and sales
+
 Folder: Sales_Dashboard
 
 2.*HR Analytics Dashboard*
 
-Description: A comprehensive HR analytics report that explores employee attendence,working preference ,sick leave % etc and identifying the trends.
+Description: A comprehensive HR analytics report that explores employee attendance, working preference, sick leave %, etc., and identifies the trends.
+
 Folder: HR_Analytics_Dashboard
